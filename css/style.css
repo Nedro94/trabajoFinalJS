@@ -1,0 +1,20 @@
+.nota{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 3rem;
+    padding: 1rem;
+}
+
+.botones{
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+    align-items: center;  
+    gap: 5rem;
+    margin-top: 0.5rem;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+    align-items: center;  
+}
